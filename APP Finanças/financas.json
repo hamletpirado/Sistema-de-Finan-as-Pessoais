@@ -1,0 +1,32 @@
+{
+  "transacoes": [
+    {
+      "descricao": "Alimentação",
+      "valor": "50.00",
+      "categoria": "Alimentação",
+      "tipo": "Despesa",
+      "data": "23/02/2025"
+    },
+    {
+      "descricao": "Cafe",
+      "valor": "10.00",
+      "categoria": "Transporte",
+      "tipo": "Despesa",
+      "data": "23/02/2025"
+    },
+    {
+      "descricao": "G",
+      "valor": "1.00",
+      "categoria": "Saúde",
+      "tipo": "Despesa",
+      "data": "23/02/2025"
+    },
+    {
+      "descricao": "Salario",
+      "valor": "15000.00",
+      "categoria": "Outros",
+      "tipo": "Receita",
+      "data": "23/02/2025"
+    }
+  ]
+}
